@@ -1,0 +1,8 @@
+.btn{
+    -webkit-appearance: none;
+    background: #cccccc;
+    border: 1px solid;
+    min-height: 32px;
+    margin-top: 10px;
+    cursor: pointer;
+}
